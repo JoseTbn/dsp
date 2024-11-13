@@ -33,7 +33,6 @@
 - Laboratoire pratique
   - Mettre en place un pipeline CI/CD de base avec des contrôles de sécurité en utilisant Jenkins et OWASP ZAP.
 
-
 #### **Session 4 : Sécurité des conteneurs et Infrastructure as Code (1.5 heures)**
 - **Sécurité des conteneurs**
   - Introduction à la conteneurisation et à la sécurité de Docker
@@ -43,7 +42,6 @@
   - Considérations de sécurité dans l'IaC (Terraform, Ansible)
   - Laboratoire pratique : Ecrire des scripts Terraform sécurisés
 
-#### **Pause (15 minutes)**
 
 #### **Session 5 : Surveillance, réponse aux incidents et conformité (1,5 heure)**
 - **Surveillance de la sécurité et réponse aux incidents**
